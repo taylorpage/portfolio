@@ -17,15 +17,7 @@
     height: 100%;
 }
 
-.text {
-    text-align: left;
-}
-
-.header-content {
-    padding-top: 20vh;
-}
-
-.xl-font {
+.title {
     color: white;
 }
 

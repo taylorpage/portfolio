@@ -1,0 +1,8 @@
+.skill-image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 25px;
+    border-radius: 3px;
+}

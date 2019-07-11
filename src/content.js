@@ -5,6 +5,22 @@ const content = {
       'I create web and mobile apps for really cool projects. I love to continue learning and am always up for a challenge' +
       'Condering hiring me? Test my skills by submitting a code challenge and see if I have what it takes!',
   },
+  about: {
+    skills: [
+      {
+        title: 'Software Engineer',
+        image: 'https://i.imgur.com/bNqLHaQ.png'
+      },
+      {
+        title: 'Audio Engineer',
+        image: 'https://i.imgur.com/UEDvzQo.png'
+      },
+      {
+        title: 'Creator',
+        image: 'https://i.imgur.com/QjDSELO.png'
+      },
+    ]
+  },
   experience: {
     skills: [
       'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png',

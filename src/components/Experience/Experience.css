@@ -5,3 +5,16 @@
     background-position: center;
     background-size: cover;
 }
+
+.job {
+    margin: 3vh 0;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.preview {
+    width: 30vh;
+}

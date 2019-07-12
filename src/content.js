@@ -5,6 +5,20 @@ const content = {
       'I create web and mobile apps for really cool projects. I love to continue learning and am always up for a challenge' +
       'Condering hiring me? Test my skills by submitting a code challenge and see if I have what it takes!',
   },
+  sideNav: [
+    {
+      network: 'linkedin',
+      link: 'https://www.linkedin.com/in/taylor-page/'
+    },
+    {
+      network: 'github',
+      link: 'https://github.com/taylorpage'
+    },
+    {
+      network: 'email',
+      link: 'mailto:jontaylorpage@gmail.com'
+    },
+  ],
   roles: {
     skills: [
       {

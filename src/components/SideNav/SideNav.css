@@ -1,0 +1,17 @@
+.btn-list {
+    position: fixed;
+    margin-top: 30vh;
+    bottom: 18px;
+    z-index: 100;
+}
+
+.btn-list li {
+    margin-top: 34px;
+    padding: 0;
+}
+
+.side-btn {
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+}
